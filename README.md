@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">I'am DBA student (backend developer).</h3>
-https://img.shields.io/badge/Productivity-8A2BE2 https://img.shields.io/badge/3D-8A2BE2 https://img.shields.io/badge/Python-8A2BE2
+![Static Badge](https://img.shields.io/badge/:Productivity)
+
 
 - 🌱 I’m currently learning **Linux**
 
