@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I am currently learning **Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/v2lorde](https://github.com/v2lorde)
 
